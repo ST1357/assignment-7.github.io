@@ -1,0 +1,74 @@
+.body-class {
+  background-color: whitesmoke;
+}
+
+.header-class {
+  background-color: black;
+  color: white;
+}
+
+.nav-class {
+  background-color: grey;
+}
+
+.nav-link-class {
+  color: aliceblue;
+}
+
+.nav-class a.active {
+  font-weight: bold;
+}
+
+.hero-section-class .section-title-class {
+  color: red;
+}
+
+.origin-section-class .section-title-class {
+  color: darkorange;
+}
+
+.testimonial-section-class .section-title-class {
+  color: darkviolet;
+}
+
+.faq-section-class .section-title-class {
+  color: blue;
+}
+
+.faq-class .faq-question-class {
+  color: brown;
+}
+
+.newsletter-section-class .section-title-class {
+  color: darkred;
+}
+
+.contact-section-class .section-title-class {
+  color: coral;
+}
+
+.text-class {
+  color: forestgreen;
+}
+
+.image-class {
+  border: 5px solid blue;
+  max-width: 100%;
+  height: auto;
+}
+
+.form-class input {
+  color: white;
+}
+
+.button-class {
+  background-color: blueviolet;
+}
+
+.footer-class {
+  background-color: darkgray;
+}
+
+.footer-class .text-class {
+  color: white;
+}
